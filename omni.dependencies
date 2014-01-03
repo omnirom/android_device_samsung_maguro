@@ -1,0 +1,13 @@
+[
+ {
+   "repository": "android_kernel_samsung_tuna",
+   "target_path": "kernel/samsung/tuna",
+   "branch": "android-4.4"
+ },
+ {
+  "repository": "android_device_samsung_tuna",
+  "target_path": "device/samsung/tuna",
+  "branch": "android-4.4"
+ }
+]
+

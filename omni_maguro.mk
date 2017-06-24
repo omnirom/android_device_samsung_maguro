@@ -19,7 +19,7 @@ TARGET_EXCLUDE_LIVEWALLPAPERS := true
 TARGET_USES_AOSP_BROWSER := true
 
 # Bootanimation
-TARGET_BOOTANIMATION_SIZE := 720x407
+TARGET_BOOTANIMATION_SIZE := 320x181
 
 # Inherit from the common Open Source product configuration
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
